@@ -1,5 +1,5 @@
 # [Udacity Online Resume](https://github.com/udacity/frontend-nanodegree-resume)
-Front-End Web Developer Nanodegree - Reviewer Training.
+Front-End Web Developer Nanodegree 
 ## Demo
 
 
